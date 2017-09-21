@@ -57,6 +57,8 @@ checkpoint
 *.png
 *.index
 *.meta
+*.pyc
 .idea/
+.__pycache__/
 *.tsv
 *.pbtxt
