@@ -62,3 +62,4 @@ checkpoint
 .__pycache__/
 *.tsv
 *.pbtxt
+*.zip

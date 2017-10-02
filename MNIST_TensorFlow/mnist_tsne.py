@@ -7,7 +7,7 @@ import numpy as np
 PATH = os.getcwd()
 LOG_DIR = os.path.join(PATH, 'T-SNE_LOG')
 DATA_DIR = os.path.join(PATH, 'MNIST_data')
-MAX_STEPS = 10000
+MAX_STEPS = 3000
 
 if __name__ == '__main__':
     if tf.gfile.Exists(LOG_DIR + '/projector'):
